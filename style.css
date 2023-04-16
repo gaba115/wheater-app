@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+}
+h2,
+h3 {
+  text-align: right;
+}
+.container {
+  margin: 30px 60px;
+}
+
+.dayTemperature {
+  text-align: left;
+}
+
+.col-4 {
+  font-size: 12px;
+  background-color: aqua;
+}
+
+.emoji {
+  font-size: 20px;
+}
+.emojis {
+  font-size: 10px;
+}
